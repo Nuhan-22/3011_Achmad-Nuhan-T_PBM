@@ -1,5 +1,6 @@
-# Flutter Travel Slicing App
 
-## 📱 Hasil Slicing
+# Menampilkan Gambar di README
 
-![Screenshot](assets/images/screenshot.png)
+Berikut contoh menampilkan gambar:
+
+![Contoh Gambar](assets/images/contoh.png)
